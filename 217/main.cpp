@@ -3,7 +3,7 @@
 #include <vector>
 #include <iostream>
 
-class Solution {
+class Solution217 {
 public:
     bool containsDuplicate(std::vector<int>& nums) {
 	if(nums.size()<=1){return false;}
@@ -28,6 +28,6 @@ public:
 
 int main() {
 	std::vector<int> v = {10, 20, 30, 10};
-	Solution s;
+	Solution217 s;
 	std::cout << s.containsDuplicate(v);
 }
