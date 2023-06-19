@@ -1,0 +1,3 @@
+/home/lena/leetcode/build/CMakeFiles/main.dir
+/home/lena/leetcode/build/CMakeFiles/edit_cache.dir
+/home/lena/leetcode/build/CMakeFiles/rebuild_cache.dir

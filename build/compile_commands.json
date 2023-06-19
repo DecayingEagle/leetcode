@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/lena/leetcode/build",
+  "command": "/usr/bin/g++  -std=c++20 -g -o CMakeFiles/main.dir/main.cpp.o -c /home/lena/leetcode/49/main.cpp",
+  "file": "/home/lena/leetcode/49/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+}
+]
