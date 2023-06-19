@@ -1,7 +1,9 @@
 /* 49. Group Anagrams
  *
- * Given an array of strings strs, group the anagrams together. You can return the answer in any order.
- * An Anagram is a word or phrase formed by rearranging the letters of a different word or phrase,
+ * Given an array of strings strs, group the anagrams together. You can return 
+ * the answer in any order.
+ * An Anagram is a word or phrase formed by rearranging the letters of a 
+ * different word or phrase,
  * typically using all the original letters exactly once.
  *
  * Example 1:
@@ -48,24 +50,26 @@ public:
         std::unordered_set<std::string> usetSortedStrs;
         std::vector<std::string> vecBuffer;
         std::string s;
-        int id = 0;
+        int id, idStrs = 0;
 
-        for(int i; i <= strs.size(); i++) {
-            s = strs[i];
+        for(auto s : strs) {
+            idStrs++;
             std::sort(s.begin(), s.end());
             auto it = usetSortedStrs.find(s);
             int id = std::distance(usetSortedStrs.begin(), it);
             if (it != usetSortedStrs.end()) {
-                /* String :already exists, skip adding it to the sorted map but 
+                /* 
+                 * String :already exists, skip adding it to the sorted map but 
                  * find in set and assign id to from the iterator of 
                  */
-                umapStrs.insert({id, strs[i]});
+                
+                umapStrs.insert(std::pair<int, std::string>(id, strs[idStrs]));
                 continue;
             }
-            umapStrs.insert({id, strs[i]});
+            umapStrs.insert({id, strs[idStrs]});
             usetSortedStrs.insert(s);
         }
-        for (const auto& pair : umapStrs) {
+        for (auto pair : umapStrs) {
             ret[pair.first].push_back(pair.second);
         }
         //ret.push_back(debugShit());
