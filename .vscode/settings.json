@@ -6,7 +6,8 @@
         "nums",
         "pwwkew",
         "testcase",
-        "testcases"
+        "testcases",
+        "uset"
     ],
     "cmake.sourceDirectory": "/home/lena/leetcode/49"
 }
