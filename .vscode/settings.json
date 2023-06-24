@@ -9,5 +9,6 @@
         "testcases",
         "uset"
     ],
-    "cmake.sourceDirectory": "/home/lena/leetcode/49"
+    "cmake.sourceDirectory": "/home/lena/leetcode/49",
+    "dotnet.defaultSolution": "leetcode.sln"
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/c/Users/roza0/Desktop/csharp/leetcode/2/2.csproj": {}
+    "/home/lena/leetcode/2/2.csproj": {}
   },
   "projects": {
-    "/mnt/c/Users/roza0/Desktop/csharp/leetcode/2/2.csproj": {
+    "/home/lena/leetcode/2/2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/c/Users/roza0/Desktop/csharp/leetcode/2/2.csproj",
+        "projectUniqueName": "/home/lena/leetcode/2/2.csproj",
         "projectName": "2",
-        "projectPath": "/mnt/c/Users/roza0/Desktop/csharp/leetcode/2/2.csproj",
+        "projectPath": "/home/lena/leetcode/2/2.csproj",
         "packagesPath": "/home/lena/.nuget/packages/",
-        "outputPath": "/mnt/c/Users/roza0/Desktop/csharp/leetcode/2/obj/",
+        "outputPath": "/home/lena/leetcode/2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/lena/.nuget/NuGet/NuGet.Config"
@@ -48,12 +48,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.linux-x64",
+              "version": "[6.0.16, 6.0.16]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.16, 6.0.16]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.408/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.105/RuntimeIdentifierGraph.json"
         }
       }
     }

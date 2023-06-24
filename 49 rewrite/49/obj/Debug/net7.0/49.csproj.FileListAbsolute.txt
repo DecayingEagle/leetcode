@@ -1,0 +1,15 @@
+/home/lena/leetcode/49 rewrite/49/bin/Debug/net7.0/49
+/home/lena/leetcode/49 rewrite/49/bin/Debug/net7.0/49.deps.json
+/home/lena/leetcode/49 rewrite/49/bin/Debug/net7.0/49.runtimeconfig.json
+/home/lena/leetcode/49 rewrite/49/bin/Debug/net7.0/49.dll
+/home/lena/leetcode/49 rewrite/49/bin/Debug/net7.0/49.pdb
+/home/lena/leetcode/49 rewrite/49/obj/Debug/net7.0/49.csproj.AssemblyReference.cache
+/home/lena/leetcode/49 rewrite/49/obj/Debug/net7.0/49.GeneratedMSBuildEditorConfig.editorconfig
+/home/lena/leetcode/49 rewrite/49/obj/Debug/net7.0/49.AssemblyInfoInputs.cache
+/home/lena/leetcode/49 rewrite/49/obj/Debug/net7.0/49.AssemblyInfo.cs
+/home/lena/leetcode/49 rewrite/49/obj/Debug/net7.0/49.csproj.CoreCompileInputs.cache
+/home/lena/leetcode/49 rewrite/49/obj/Debug/net7.0/49.dll
+/home/lena/leetcode/49 rewrite/49/obj/Debug/net7.0/refint/49.dll
+/home/lena/leetcode/49 rewrite/49/obj/Debug/net7.0/49.pdb
+/home/lena/leetcode/49 rewrite/49/obj/Debug/net7.0/49.genruntimeconfig.cache
+/home/lena/leetcode/49 rewrite/49/obj/Debug/net7.0/ref/49.dll
