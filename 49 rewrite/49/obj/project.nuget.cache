@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K9EUKLUlX9O7e2YtXc3aW48kOdoTNUI4J7+XK0lQ87VAvvb4S8x70wVs/RomaS6x2TzJ5WOnCQZY0jwYUW/ziQ==",
+  "dgSpecHash": "SfuxTz4daiT56tjT41P3Bx/HewQS/NeZn2xzTzasAm4zN+Ofi7qIvd+ZIAgj98uBNMSloPKN0TLQKsvKy0Glhg==",
   "success": true,
-  "projectFilePath": "/home/lena/leetcode/49 rewrite/49/49.csproj",
-  "expectedPackageFiles": [
-    "/home/lena/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.5/microsoft.aspnetcore.app.ref.7.0.5.nupkg.sha512"
-  ],
+  "projectFilePath": "c:\\Users\\roza0\\Desktop\\coding\\csharp\\leetcode\\49 rewrite\\49\\49.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

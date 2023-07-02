@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/lena/leetcode/49 rewrite/49/49.csproj": {}
+    "c:\\Users\\roza0\\Desktop\\coding\\csharp\\leetcode\\49 rewrite\\49\\49.csproj": {}
   },
   "projects": {
-    "/home/lena/leetcode/49 rewrite/49/49.csproj": {
+    "c:\\Users\\roza0\\Desktop\\coding\\csharp\\leetcode\\49 rewrite\\49\\49.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/lena/leetcode/49 rewrite/49/49.csproj",
+        "projectUniqueName": "c:\\Users\\roza0\\Desktop\\coding\\csharp\\leetcode\\49 rewrite\\49\\49.csproj",
         "projectName": "49",
-        "projectPath": "/home/lena/leetcode/49 rewrite/49/49.csproj",
-        "packagesPath": "/home/lena/.nuget/packages/",
-        "outputPath": "/home/lena/leetcode/49 rewrite/49/obj/",
+        "projectPath": "c:\\Users\\roza0\\Desktop\\coding\\csharp\\leetcode\\49 rewrite\\49\\49.csproj",
+        "packagesPath": "C:\\Users\\roza0\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\roza0\\Desktop\\coding\\csharp\\leetcode\\49 rewrite\\49\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/lena/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\roza0\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -48,18 +50,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[7.0.5, 7.0.5]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/7.0.105/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
         }
       }
     }

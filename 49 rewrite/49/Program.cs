@@ -17,12 +17,6 @@
  * strs[i] consists of lowercase English letters.
  */
 
-using System;
-using System.Collections.Generic;
-using System.Collections;
-using System.ComponentModel;
-using System.Globalization;
-
 namespace _49
 {
     public class Program

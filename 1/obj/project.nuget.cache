@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "EIgugpxE1ws2EFrVRPX58OPDc2pVh+/S4WHi0HW3+zVW3Kcvfa6q1uI140k73M1NjUsrZN4qNJZgXp+A+SxHww==",
+  "dgSpecHash": "vStt+YahoPAHVRGoIscxDjTVIc0a7uIariiVn9e5l0WNyDa/z/CFkvdS8PS+K2JxBozUJdaxgkAZHsrCaoCnAw==",
   "success": true,
-  "projectFilePath": "/home/lena/leetcode/1/app.csproj",
+  "projectFilePath": "c:\\Users\\roza0\\Desktop\\coding\\csharp\\leetcode\\1\\app.csproj",
   "expectedPackageFiles": [
-    "/home/lena/.nuget/packages/microsoft.netcore.app.ref/6.0.16/microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
-    "/home/lena/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.16/microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
-    "/home/lena/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.16/microsoft.netcore.app.host.linux-x64.6.0.16.nupkg.sha512"
+    "C:\\Users\\roza0\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\roza0\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\roza0\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\roza0\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
   ],
   "logs": []
 }
